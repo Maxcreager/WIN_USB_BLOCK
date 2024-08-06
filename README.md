@@ -1,6 +1,6 @@
 # Win_USB_Blocker
 
-USB Blocker is a Rust application designed to block USB write access on a computer. It provides an easy-to-use interface to manage the blocking and unblocking of USB devices.
+Win USB Block is a Rust application designed to block USB write access on a computer. It provides an easy-to-use interface to manage the blocking and unblocking of USB devices.
 
 ## Features
 
